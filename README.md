@@ -29,3 +29,7 @@ The goal is to determine the **shortest route from node 1 to node 20**, based on
 1️⃣ Install **Python** and required libraries:
 ```sh
 pip install pandas networkx matplotlib
+
+2️⃣ Run the script:
+```sh
+python dijkstra.py
