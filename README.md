@@ -1,6 +1,8 @@
 # 🚀 Dijkstra's Shortest Path Algorithm in Sioux Falls Network
 
 This project demonstrates **Dijkstra's Algorithm** to compute the **shortest path** in the **Sioux Falls** road network.
+The goal is to determine the **shortest route from node 1 to node 20**, based on given network weights.
+
 
 ## 📂 Files in This Repository:
 - **`dijkstra.py`** → Python script implementing Dijkstra’s algorithm.
